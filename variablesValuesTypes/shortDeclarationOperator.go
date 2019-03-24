@@ -7,9 +7,9 @@ var w = 43
 
 func numbers() {
 	// Short hand variable declaration
+
 	x := 52
 	fmt.Println(x)
-
 	// Variables assined like this have to be defined or have function blocked scope
 	y := 36
 	fmt.Println(y)
